@@ -10,4 +10,3 @@ def resize_browser():
     yield
 
     browser.quit()
-
