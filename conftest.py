@@ -10,3 +10,6 @@ def resize_browser():
     yield
 
     browser.quit()
+
+def some_func():
+    pass
